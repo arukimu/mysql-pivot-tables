@@ -36,7 +36,7 @@ To install **Smart Pivot Table**:
 
 You’ll see a signup page where you can create your **Admin profile**.
 
-![Signup Page](MPT/images/signup.png)
+<img src="MPT/images/signup.png" alt="Signup Page" width="50%" />
 
 ---
 
@@ -61,6 +61,8 @@ After logging in, you’ll be greeted with a simple, intuitive interface to visu
 
 If you need advanced filtering options, custom parameters, or a more powerful pivot table builder, check out the upgraded module in Smart Report Maker:
 
-[https://mysqlreports.com/php-mysql-pivot-tables/](https://mysqlreports.com/php-mysql-pivot-tables/)
+[Explore our drag-and-drop editor for building MySQL Pivot Tables effortlessly.](https://mysqlreports.com/php-mysql-pivot-tables/)
 
-[![Try the new drag-and-drop pivot table builder](MPT/images/wizard.png/new_srm.gif)](https://mysqlreports.com/php-mysql-pivot-tables/)
+
+
+
