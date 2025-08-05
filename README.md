@@ -1,12 +1,16 @@
 # 📊 Smart Pivot Table (MPT)
 
-**Smart Pivot Table** is now a **free** and **open-source** PHP tool for building **MySQL Pivot Tables** visually — with **no coding required**.
 
-It offers a fully **manual, user-controlled experience**, allowing you to:
+**Smart Pivot Table** is an **open-source**, PHP tool for building **MySQL Pivot Tables** visually — with **no coding required**, distributed under the **MIT license**.
 
-- **Select your database connections** visually
-- Define **data sources**
-- Assign fields to **rows**, **columns**, and **values** with ease
+It allows you to:
+
+- Create pivot tables **visually**, without writing any complex SQL statements.  
+- Define rows, columns, values, and relationships using dropdowns.  
+- View instant summaries of your data in a clean UI.  
+- Customize the code freely if you know PHP.
+
+Whether you’re a developer, data analyst, or business user, this tool makes it easy to explore your MySQL data — **with zero code**.
 
 Built entirely using **native PHP**, it’s lightweight, easy to set up, and released under the **MIT License** — giving you full freedom to **use**, **modify**, and **distribute** it even in commercial projects.
 
