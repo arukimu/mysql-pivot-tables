@@ -1,5 +1,5 @@
 <?php
-error_reporting(0);
+//error_reporting(0);
 if (! defined('DIRECTACESS')) exit('No direct script access allowed');
 	/**
 	 * this file create the logic of (single) pivot table

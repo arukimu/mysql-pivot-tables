@@ -189,7 +189,7 @@ if (! defined('DIRECTACESS')) exit('No direct script access allowed');
 			// $this->debug_mode('Mysqli::sanitize_values', 'info', 'Input string for the sanitize function : '. $string);
 			if ($this->link)
 			{
-				$cleaned_string = (get_magic_quotes_gpc()) ? stripslashes($string) : $string;
+				$cleaned_string =   $string;
 				$cleaned_string =  $this->link->real_escape_string($string);
 				
 				// $this->debug_mode('Mytsqli::sanitize_values', 'success', 'sanitized string : '. $cleaned_string);

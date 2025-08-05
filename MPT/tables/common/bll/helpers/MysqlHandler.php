@@ -131,8 +131,8 @@ if (! defined('DIRECTACESS')) exit('No direct script access allowed');
 			
 			// $this->debug_mode('Mysql::sanitize_values', 'info', "Input string for the sanitize function: ". $string );
 			
-			$cleaned_string = (get_magic_quotes_gpc()) ? stripslashes($string) : $string;
-			$cleaned_string = (function_exists('mysql_real_escape_string')) ? mysql_real_escape_string($string) :  mysql_escape_string($string);
+			$cleaned_string = $string;
+			$cleaned_string =  mysql_escape_string($string);
 			
 			// $this->debug_mode('Mysql::sanitize_values', 'success', "sanitized string: ". $cleaned_string );
 			

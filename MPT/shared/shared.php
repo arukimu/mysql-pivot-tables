@@ -4,7 +4,7 @@
 		handles all requests sent 
 	*/
         if (! defined('DIRECTACESS')) exit('No direct script access allowed');
-        error_reporting(0);
+       error_reporting(0);
 	ini_set('session.use_only_cookies', 1);	
 	$cookieParams = session_get_cookie_params();
 	session_set_cookie_params($cookieParams["lifetime"],

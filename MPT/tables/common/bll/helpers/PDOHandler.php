@@ -147,7 +147,7 @@ if (! defined('DIRECTACESS')) exit('No direct script access allowed');
 			// $this->debug_mode('PDO::sanitize_values', 'info', 'Input string for the sanitize function : '. $string);
 			if ($this->link)
 			{
-				$cleaned_string = (get_magic_quotes_gpc()) ? stripslashes($string) : $string;
+				$cleaned_string = $string;
 				// $cleaned_string =  $this->link->quote($string);
                               $cleaned_string = str_replace(array('\\', "\0", "\n", "\r", "'", '"', "\x1a"), array('\\\\', '\\0', '\\n', '\\r', "\\'", '\\"', '\\Z'), $cleaned_string);
 				
